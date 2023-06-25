@@ -20,7 +20,7 @@ Screen Studio makes it easy to create beautiful screen recordings in minutes. Pa
 
 ## Watch it on YouTube
 
-- TUTORIAL => [Watch it on YouTube](https://youtu.be/zFkTKTDHH7E)
+- TUTORIAL => [Watch it on YouTube](https://youtu.be/0BOxy2cVvWg)
 
 **Support Me**
 
